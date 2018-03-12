@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">SocialAuth</string>
+    <string name="facebook_app_id">426770311076833</string>
+    <string name="fb_login_protocol_scheme">fb426770311076833</string>
+    <string name="enter">Entrar</string>
+    <string name="digite_seu_email">Digite seu email</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notificações</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="action_sign_in_with_instagram">Entrar com o instagram</string>
+    <string name="logged">Logado</string>
+    <string name="login_error">Erro ao efetuar login</string>
 </resources>
